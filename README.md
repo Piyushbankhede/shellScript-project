@@ -35,8 +35,8 @@ Version: `v0.0.1`
 - Bash shell (Linux/macOS/WSL).
 
 ---
+📜 License
+This project is licensed under the MIT License.
 
-## 🚀 Usage
 
-```bash
-./aws_resource_list.sh <aws_region> <aws_service>
+
